@@ -1,5 +1,5 @@
 # FMLP-Rec
-The source code for our WWW 2022 Paper [**"Filter-enhanced MLP is All You Need for Sequential Recommendation"**]()
+The source code for our WWW 2022 Paper [**"Filter-enhanced MLP is All You Need for Sequential Recommendation"**](https://arxiv.org/abs/2202.13556)
 
 
 ## Requirements
